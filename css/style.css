@@ -1,0 +1,54 @@
+body{
+background:#67BE4B;	
+	
+}
+
+.loginbox{
+width:500px;
+background:#FFFFFF;	
+
+padding:34px;
+margin:auto;
+margin-top:100px;
+box-shadow:0px 0px 50px -7px black;	
+}
+.loginbox input{
+padding:30px;
+background:#F2F2F2;
+color:#000000;
+width:88%;	
+display:block;
+margin-bottom:20px;
+outline:none;
+border:none;
+font-size:18px;	
+}
+.submit{
+width:100%!important;
+background:linear-gradient(#13d013,#1f4c16)!important;
+color:#ffffff!important;
+	
+}
+.submit:hover{
+background:linear-gradient(#1f4c16,#13d013)!important;
+cursor:pointer;
+}
+.register{
+
+text-align:center;
+
+
+}
+.register a{
+text-decoration:none;
+color:#65BB78;	
+	
+}
+.register span{
+color:#867676;
+}	
+.user{
+text-align:center;
+text-transform:uppercase;
+	
+}
